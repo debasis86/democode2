@@ -1,3 +1,3 @@
 # demo 2
 
-Some information
+Some information more info
